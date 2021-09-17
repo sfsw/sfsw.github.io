@@ -1,0 +1,6 @@
+{
+  "description": "Samurai - Shield",
+  "external_url": "https://samurai.gold/",
+  "image": "https://openmoji.org/data/color/svg/1F6E1.svg",
+  "name": "Shield"
+}

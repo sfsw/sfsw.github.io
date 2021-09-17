@@ -1,0 +1,6 @@
+{
+  "description": "Samurai - Sword",
+  "external_url": "https://samurai.gold/",
+  "image": "https://openmoji.org/data/color/svg/2694.svg",
+  "name": "Sword"
+}

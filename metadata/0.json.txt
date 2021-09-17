@@ -1,0 +1,6 @@
+{
+  "description": "Samurai - Gold",
+  "external_url": "https://samurai.gold/",
+  "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+  "name": "Gold"
+}

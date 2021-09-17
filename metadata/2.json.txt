@@ -1,0 +1,6 @@
+{
+  "description": "Samurai - Thor's Hammer",
+  "external_url": "https://samurai.gold/",
+  "image": "https://openmoji.org/data/color/svg/1F528.svg",
+  "name": "Thor's Hammer"
+}
